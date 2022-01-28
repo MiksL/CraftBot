@@ -25,4 +25,3 @@ client.on('loggedOn', () => {
 //https://github.com/DoctorMcKay/node-tf2
 //https://github.com/DoctorMcKay/node-steam-user
 //https://github.com/Jessecar96/SteamDesktopAuthenticator
-//https://www.youtube.com/watch?v=wZzlcSuf1RI
